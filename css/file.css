@@ -1,0 +1,13 @@
+head{
+  text-align: center;
+  font-style: oblique;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+}
+body{
+  color: blue;
+  background-color: lightgrey;
+}
